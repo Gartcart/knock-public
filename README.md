@@ -133,7 +133,7 @@ The matching algorithm can be customized by:
 
 Modified MIT License
 
-Copyright (c) 2025 Garrett Scott
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -162,7 +162,7 @@ SOFTWARE.]
 
 ## Contributors
 
-Garrett Scott, Trey Hibbard
+Gart, Trey Hibbard
 
 ## Data Anonymization
 
